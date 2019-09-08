@@ -1,0 +1,66 @@
+오후 5:47 2019-09-07
+
+9월중 라즈베리파이4 B 모델이 아시아에 풀린다 한다.
+
+가급적 기다렸다가 4GB 모델을 찾아보자
+
+  * 발열이 좀 있다하니 방열판 필수!
+
+RGB to Hdmi 젠더
+
+sata storage 호환 커넥터
+
+ssd 또는 HDD
+
+디스플레이 추가 요망....
+
+
+
+
+라즈베리파이는 arm 기반이라 x86 환경과 바이너리가 달라 설치시 고생할 수 있음
+
+따라서 라떼판다가 더 나을지도
+
+같은 서버 개발자로서 라떼판다가 더 나은 사례 : https://www.clien.net/service/board/use/11008534
+라떼판다는 아직인듯;
+
+서버용으로 ODROID HC2도 괜찮은 것 같다.
+https://awesometic.tistory.com/107?category=964087
+
+https://namu.wiki/w/%EC%98%A4%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C
+
+세팅 참고
+http://blog.daum.net/kyoud2/15837504
+
+https://falsy.me/%EC%98%A4%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EC%9D%B8%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95-1-os-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-odroid-hc1/
+
+
+참고 서적
+
+안드로이드 스튜디오 : 한빛 아카데미 Android Studio를 활용한 안드로이드 프로그래밍
+
+라즈베리파이 책 :
+
+파이썬 :
+
+장고 :
+
+프로그래머스 강의
+https://programmers.co.kr/learn/courses/6
+
+Nginx :
+
+NodeJS :
+
+PostgreSQL :
+
+
+
+구매
+
+ODROID 구매
+https://www.hardkernel.com/ko/product/
+
+
+음성비서 참조
+https://www.clien.net/service/board/cm_rasp/11138483?od=T31&po=0&category=AI+%EC%9D%8C%EC%84%B1%EB%B9%84%EC%84%9C&groupCd=
