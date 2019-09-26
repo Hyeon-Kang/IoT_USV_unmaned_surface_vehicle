@@ -19,6 +19,17 @@ a.  영유아 cpr 실습 마네킹
     k%3D8f2c2fe484eed1797eb7f45b4e37435c92f61287
 
 b.  압력감지센서
-    1.  FSR-402
-        동작 압력 : 0.1N
-        동작 범위 : 0.1N ~ 100.0N
+    1안.  품명 : FSR-402, 압력을 받으면 저항이 감소함
+          링크 : http://www.devicemart.co.kr/goods/view?no=33870#goods_file
+          최소 동작 힘 : 0.1N
+          측정 범위 : 0.1N ~ 100.0N
+          크기 : 18.28mm(지름)
+          초기 저항 : 10MOhm 이상
+          라이즈 타임 < 3ms
+    2안.  품명 : FSR-402, 압력을 받으면 저항이 감소함
+          링크 : http://www.devicemart.co.kr/goods/view?no=33870#goods_file
+          최소 동작 힘 : 0.1N
+          측정 범위 : 0.1N ~ 100.0N
+          크기 : 18.28mm(지름)
+          초기 저항 : 10MOhm 이상
+          라이즈 타임 < 3ms
