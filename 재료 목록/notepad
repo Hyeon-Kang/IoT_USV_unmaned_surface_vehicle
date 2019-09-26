@@ -9,9 +9,65 @@
 6. 하임리히 법 시행시 등짝 압력센서로 위치 및 압력 체크
 
 
-
+부품 목록
 
 부품 / 용도 / 링크 / 가격
 
+a.  영유아 cpr 실습 마네킹
+    링크 : http://flowmath.schooledu.co.kr/Shop/ViewProduct.asp?mcd=M17749458&ca=228&itemcd=77610&N
+    aPm=ct%3Dk10niehc%7Cci%3D42c104b6a266635b8c055741766484cc545c6372%7Ctr%3Dslsl%7Csn%3D288121%7Ch
+    k%3D8f2c2fe484eed1797eb7f45b4e37435c92f61287
+    가격 : 220000
 
-스피커 / 음성 출력 /
+b.  압력감지센서
+    1안.  품명 : FSR-402, 압력을 받으면 저항이 감소함
+          형태 : 원형
+          링크 : http://www.devicemart.co.kr/goods/view?no=33870#goods_file
+          최소 동작 힘 : 0.1N
+          측정 범위 : 0.1N ~ 100.0N
+          크기 : 18.28mm(지름)
+          초기 저항 : 10MOhm 이상
+          라이즈 타임 < 3ms
+          수명 : 천만회
+          가격 : 11880
+
+    2안.  품명 : FSR-406, 압력을 받으면 저항이 감소함
+          형태 : 사각형
+          링크 : http://www.devicemart.co.kr/goods/view?no=33868
+          최소 동작 힘 : 0.1N
+          측정 범위 : 0.1N ~ 100.0N
+          크기 : 43.69*43.69mm
+          초기 저항 : 10MOhm 이상
+          라이즈 타임 < 3ms
+          수명 : 천만회
+          가격 : 15840
+
+c.  대기압 센서
+    품명 : BMP180 대기압 센서모듈 GY-68
+    데이터 시트 없음
+    VCC, GND, SCL, SDA 4핀 사용
+    라이브러리 받아서 시리얼 모니터로 확인해야 할듯 함
+    가격 : 1870
+
+d.  스피커
+    품명 : FDS28
+    링크 : http://www.devicemart.co.kr/goods/view?no=29974
+    사이트 내에 이미지 형식으로 데이터시트 업로드 되어있음
+    크기 : 2.8mm(지름)
+    최대음량 : 88dB~94dB
+    출력 : 1W, 최대출력 : 1.5W
+    임피던스 : 8Ohm 오차 : up and down 15%
+    가격 : 1210
+
+e.  스위치
+    푸시 타입의 온오프 스위치를 사용할 예정
+    동작 구상 : 변수하나 설정, 상수는 3개 사용할 예정, 변수는 a, 상수는 0,1,2로
+               가정한다. 초기값 a =0,  실습 시작시 a=1, 온오프 스위칭을 실시 할
+               때마다 카운트증가, 리셋되면 다시 a=0.
+    스위치 링크
+    1. http://www.devicemart.co.kr/goods/view?no=34205
+    2. http://www.devicemart.co.kr/goods/view?no=12894
+    3. http://www.devicemart.co.kr/goods/view?no=1326803
+    4. http://www.devicemart.co.kr/goods/view?no=2210
+  **5. 게임기 버튼 http://www.devicemart.co.kr/goods/view?no=1376727
+       가격 : 990
