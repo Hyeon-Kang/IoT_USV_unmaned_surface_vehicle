@@ -3,11 +3,11 @@
 #include <PubSubClient.h>
 #include <Servo.h>
 
-const char* Wifi_ID = "cleanbot1";  
-const char* Wifi_Pw =  "cleanbot1";
+const char* Wifi_ID = "SG";  
+const char* Wifi_Pw =  "20155243";
 const char* UiamServer = "soldier.cloudmqtt.com"; 
 const int UiamPort =  10591; 
-const char* UiamID = "hellouiam"; 
+const char* UiamID = "Hyeon"; 
 
 //Motor L (좌측모터)
 int PWM_L = D6; //Speed control Motor L
