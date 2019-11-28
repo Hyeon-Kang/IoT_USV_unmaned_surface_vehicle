@@ -37,9 +37,14 @@ End with an example of getting some data out of the system or using it for a lit
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
+### MQTT를 응용한 IOT 통신 구현
 
-Explain what these tests test and why
+컨트롤러 페이지에서 가상 스틱을 움직여 좌우 모터에 내릴 값 설정
+설정한 값을 cloudmqtt broker 서버로 POST 전송을 한다.
+MQTT 메시지 큐 브로커가 받은 메시지를 보트 클라이언트로 재전파
+(cloudmqtt 의 메시지 브로커 서비스 이용 - 일정 금액을 지불하면 금액에 맞는 대역폭과 전송용량 제공함)
+스마트폰의 테더링으로 인터넷에 연결된 보트는 지속적으로 MQTT 서버와 패킷을 주고 받으며 브로커로부터 메시지가 전달되면 해당 메시지를 파싱, 각 파트에 값을 부여함.
+보트는 각 파트에 부여된 값대로 동작을 수행한다.
 
 ```
 Give an example
@@ -69,7 +74,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
