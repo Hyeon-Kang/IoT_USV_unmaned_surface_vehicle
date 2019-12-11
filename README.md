@@ -42,5 +42,16 @@
 
 
 ### 시스템 플로우차트
+![image](https://user-images.githubusercontent.com/44962939/70596795-1a14db00-1c2a-11ea-8fe5-c0797c216cda.png)
+
+
+
+### 통신 방식
+![image](https://user-images.githubusercontent.com/44962939/70596864-3f094e00-1c2a-11ea-9976-017db801473a.png)
+
+MQTT 메시지 큐 서버를 응용한 통신
+
+
 ### 프로젝트 결과
+
 ### 활용 방안
