@@ -87,6 +87,7 @@ MQTT 메시지 큐 서버를 응용한 통신
 ### 하드웨어 블록도
 ![image](https://user-images.githubusercontent.com/44962939/70599907-b7bfd880-1c31-11ea-8796-acebaed293b3.png)
 
+![image](https://user-images.githubusercontent.com/44962939/70607450-d3cb7600-1c41-11ea-883c-5b4cd3610611.png)
 
 ### 프로젝트 결과
 ![image](https://user-images.githubusercontent.com/44962939/70597824-af18d380-1c2c-11ea-9057-0bdcff2d3814.png)
