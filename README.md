@@ -50,6 +50,12 @@
 ### 시스템 플로우차트
 ![image](https://user-images.githubusercontent.com/44962939/70596795-1a14db00-1c2a-11ea-8fe5-c0797c216cda.png)
 
+* 컨트롤 프로세스
+![image](https://user-images.githubusercontent.com/44962939/70597792-9a3c4000-1c2c-11ea-938e-6dbcccf38c01.png)
+
+
+* 초음파 프로세스
+![image](https://user-images.githubusercontent.com/44962939/70597803-a1fbe480-1c2c-11ea-86b9-ea111a7a69e5.png)
 
 
 ### 통신 방식
@@ -59,8 +65,11 @@
 MQTT 메시지 큐 서버를 응용한 통신
 
 
+
+
 ### 프로젝트 결과
-![image](https://user-images.githubusercontent.com/44962939/70597105-cbb40c00-1c2a-11ea-9612-63ed0b523e58.png)
+![image](https://user-images.githubusercontent.com/44962939/70597824-af18d380-1c2c-11ea-9057-0bdcff2d3814.png)
+
 
 ![image](https://user-images.githubusercontent.com/44962939/70597128-dff80900-1c2a-11ea-80b1-f5ef0c97cca1.png)
 
