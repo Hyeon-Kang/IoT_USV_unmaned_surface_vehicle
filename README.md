@@ -59,5 +59,9 @@ MQTT 메시지 큐 서버를 응용한 통신
 
 
 ### 프로젝트 결과
+![image](https://user-images.githubusercontent.com/44962939/70597105-cbb40c00-1c2a-11ea-9612-63ed0b523e58.png)
+
+![image](https://user-images.githubusercontent.com/44962939/70597128-dff80900-1c2a-11ea-80b1-f5ef0c97cca1.png)
+
 
 ### 활용 방안
