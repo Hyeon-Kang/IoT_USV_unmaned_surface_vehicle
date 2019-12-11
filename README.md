@@ -11,6 +11,7 @@
 * [기능 명세](#기능-명세)
 * [제약 사항](#제약-사항)
 * [시스템 플로우차트](#시스템-플로우차트)
+* [하드웨어 블록도](#하드웨어-블록도)
 * [프로젝트 결과](#프로젝트-결과)
 * [활용 방안](#활용-방안)
 
@@ -82,6 +83,9 @@ MQTT 메시지 큐 서버를 응용한 통신
 
 [Paho link] : https://github.com/eclipse/paho.mqtt.javascript
 
+
+### 하드웨어 블록도
+![image](https://user-images.githubusercontent.com/44962939/70599907-b7bfd880-1c31-11ea-8796-acebaed293b3.png)
 
 
 ### 프로젝트 결과
