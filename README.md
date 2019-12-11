@@ -53,7 +53,8 @@
 
 
 ### 통신 방식
-![image](https://user-images.githubusercontent.com/44962939/70596864-3f094e00-1c2a-11ea-9976-017db801473a.png)
+![image](https://user-images.githubusercontent.com/44962939/70597467-c73c2300-1c2b-11ea-8f5e-9086feabb90b.png)
+
 
 MQTT 메시지 큐 서버를 응용한 통신
 
