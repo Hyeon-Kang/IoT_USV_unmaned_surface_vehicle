@@ -90,7 +90,8 @@ MQTT 메시지 큐 서버를 응용한 통신
 ![image](https://user-images.githubusercontent.com/44962939/70607450-d3cb7600-1c41-11ea-883c-5b4cd3610611.png)
 
 ### 프로젝트 결과
-![image](https://user-images.githubusercontent.com/44962939/70597824-af18d380-1c2c-11ea-9057-0bdcff2d3814.png)
+![image](https://user-images.githubusercontent.com/44962939/70608185-0cb81a80-1c43-11ea-85d9-4b6ba864bbca.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/44962939/70597128-dff80900-1c2a-11ea-80b1-f5ef0c97cca1.png)
